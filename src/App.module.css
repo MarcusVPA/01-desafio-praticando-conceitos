@@ -4,7 +4,6 @@
     }
     
     .wrapper {
-        background: red;
         place-content: center;
         padding: 2rem;
     }
