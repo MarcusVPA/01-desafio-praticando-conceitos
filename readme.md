@@ -5,7 +5,7 @@ The project is TODO list, responsible and i used context on ReactJs to pass the 
 
 ## 🎨 Layout
 
-![image](https://github.com/MarcusVPA/desafio-decodificador-texto/blob/main/img/layout.png)
+![image](https://github.com/MarcusVPA/01-desafio-praticando-conceitos/blob/main/image/layout.png)
 
 ## 🛠 Website
 
