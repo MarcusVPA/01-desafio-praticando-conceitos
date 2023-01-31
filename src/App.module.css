@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    html{
+        font-size: 87.5%;
+    }
+    
+    .wrapper {
+        background: red;
+        place-content: center;
+        padding: 2rem;
+    }
+}

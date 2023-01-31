@@ -1,0 +1,54 @@
+.tasks {
+    max-width: 46rem;
+    margin: 4rem auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerInformation {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.totalTasks {
+    color: var(--blue);
+    font-weight: 700;
+    /*line-height: 1.0625rem;*/
+}
+
+.badge {
+    background: var(--grey-400);
+    color: var(--grey-200);
+    font-size: 0.75rem;
+    font-weight: 700;
+    border-radius: 999px;
+    padding: 0.125rem 0.5rem;
+}
+
+.doneTasks {
+    color: var(--purple);
+    font-weight: 700;
+    /*line-height: 1.0625rem;*/
+}
+
+.listTasks {
+   margin-top: 1.5rem; 
+   border-top: 1px solid var(--grey-400);
+   border: 8px;
+}
+
+.emptyList {
+    padding: 4rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ 
+ .clipboardIcon {
+     height: 3.5rem;
+     width: 3.5rem;
+     margin-bottom: 1rem;
+ }
