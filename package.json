@@ -6,7 +6,7 @@
   "homepage": "http://marcusvpa.github.io/01-desafio-praticando-conceitos",
   "scripts": {
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy" : "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
